@@ -5,7 +5,7 @@ $packageArgs = @{
   packageName  = $env:ChocolateyPackageName
     
   url          = 'http://acs.pandasoftware.com/Panda/FREEAV/190612/PANDAFREEAV.exe'
-  checksum     = '00CEF69FF557BFEE8CED3E7567B744F2D444374872B9C10A5B72AFDAFAC8E25E'
+  checksum     = '00b313b71a1a3bfdf3a7cd8ed54590adb5c68d82fcddc6d4b8ebd5a82f7d51b8'
   checksumType = 'sha256'
 }
 
